@@ -36,9 +36,11 @@ MATH RPG 高小/
 直接訪問：https://donaldcpk.github.io/MathRPG-Ngwah/
 
 ### 本地遊戲
-1. 下載或克隆此專案
-2. 開啟 `index.html` 檔案
+1. 下載或克隆此專案：`git clone https://github.com/Donaldcpk/MathRPG-Ngwah.git`
+2. 開啟專案資料夾中的 `index.html` 檔案
 3. 開始你的數學冒險！
+
+> **注意**：如果要在本地運行，建議使用本地伺服器環境（如 Live Server）來避免跨域問題。
 
 ## 🎯 遊戲模組說明
 
