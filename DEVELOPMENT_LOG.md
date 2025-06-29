@@ -5,7 +5,20 @@
 
 ## 開發進度記錄
 
-### 2024-12-19
+### 2024-12-19 (更新2)
+#### ✅ 分支重構
+1. **Git分支管理優化**
+   - 創建新的main2分支
+   - 刪除舊的main分支
+   - 更新GitHub Actions配置以使用main2分支
+   - 重新配置部署流程
+
+2. **版本控制改進**
+   - 統一使用main2作為主要開發分支
+   - 優化CI/CD流程
+   - 確保GitHub Pages正確部署
+
+### 2024-12-19 (初版)
 #### ✅ 已完成
 1. **專案初始化**
    - 建立完整的README.md文檔
@@ -84,6 +97,7 @@ MATH RPG 高小/
 #### 🌐 線上訪問
 - **GitHub倉庫**: https://github.com/Donaldcpk/MathRPG-Ngwah
 - **遊戲網址**: https://donaldcpk.github.io/MathRPG-Ngwah/ (部署中)
+- **主要分支**: main2
 
 #### 📝 注意事項
 - 所有遊戲資源已成功上傳到GitHub
