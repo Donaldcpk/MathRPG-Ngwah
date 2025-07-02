@@ -77,6 +77,9 @@
 - GitHub repository 建立
 - GitHub Pages 配置
 - 線上遊戲連結：https://donaldcpk.github.io/MathRPG-Ngwah/
+- 本地代碼完整上傳到GitHub
+- 版本控制系統建立完成
+- README.md 和 CHANGELOG.md 文檔完成
 
 ---
 
